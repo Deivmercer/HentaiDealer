@@ -1,11 +1,11 @@
 {
-  "name": "hentai-dealer",
-  "version": "0.0.0",
-  "description": "HentaiDealer",
+  "name": "hentaidealer",
+  "version": "1.0.0",
+  "description": "HentaiDealer is a Discord bot that lets you easily find your next favorite hentai from the Discord chat.",
   "main": "app.js",
-  "author": {
-    "name": ""
-  },
+  "author": "Davide Costantini",
+  "homepage": "https://github.com/Deivmercer/HentaiDealer",
+  "private": true,
   "dependencies": {
     "discord.js": "^12.1.1",
     "dotenv": "^8.2.0",
