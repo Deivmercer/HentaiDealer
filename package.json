@@ -1,0 +1,14 @@
+{
+  "name": "hentai-dealer",
+  "version": "0.0.0",
+  "description": "HentaiDealer",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0",
+    "nhentai-api-js": "^1.1.2"
+  }
+}
